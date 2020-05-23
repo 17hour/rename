@@ -1,0 +1,3 @@
+Maybe add drop shadow to navbar elements
+Portfolio grid
+Actual text on home
