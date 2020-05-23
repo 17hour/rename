@@ -29,7 +29,7 @@ body {
 }
 
 body::-webkit-scrollbar {
-    width: 0.25rem;
+    width: 0.30rem;
 }
 
 body::-webkit-scrollbar-track {
@@ -37,7 +37,7 @@ body::-webkit-scrollbar-track {
 }
 
 body::-webkit-scrollbar-thumb {
-    background: #6649b8
+    background: #8255ff
 }
 
 main {
@@ -58,6 +58,8 @@ main {
     align-items: center;
     justify-content: center;
     display: flex;
+    -webkit-filter: drop-shadow(5px 5px 5px #222);
+    filter: drop-shadow(5px 5px 5px #222);
 }
 
 
