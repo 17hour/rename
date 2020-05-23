@@ -7,9 +7,11 @@
     --bg-secondary: #141418;
 }
 
-p,h1 {
+p,h1,h4 {
     text-align: center;
 }
+
+
 
 p {
     font-weight: lighter;
@@ -81,7 +83,8 @@ main {
 
 .nav-item:last-child {
 
-    margin-top: 46rem;
+    margin: auto;
+    margin-bottom: 3rem;
 
 }
 
